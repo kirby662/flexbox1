@@ -1,0 +1,173 @@
+#box1 { 
+    border-style: solid;
+    border-width:20px;
+    border-radius:3px;
+    padding:20px;
+    margin-right:70%;
+  }
+  
+  #box2{ 
+    border-style: solid;
+    border-width:20px;
+    border-radius:3px;
+    padding:20px;
+    margin-right:70%;
+  }
+  
+  #box3 { 
+    border-style: solid;
+    border-width:20px;
+    border-radius:3px;
+    padding:20px;
+    margin-right:70%;
+  }
+  .box { 
+    display: flex;
+    flex-direction: column;
+  }
+  #box4 { 
+    border-style: solid;
+    border-width:20px;
+    border-radius:3px;
+    padding:20px;
+    
+  }
+  
+  #box5{ 
+    border-style: solid;
+    border-width:20px;
+    border-radius:3px;
+    padding:20px;
+   
+  }
+  
+  #box6 { 
+    border-style: solid;
+    border-width:20px;
+    border-radius:3px;
+    padding:20px;
+    
+  }
+  .box10 { 
+    display:flex;
+    justify-content:space-between;
+    
+  }
+  #box7 { 
+    border-style: solid;
+    border-width:20px;
+    border-radius:3px;
+    padding:20px;
+    
+  }
+  
+  #box8{ 
+    border-style: solid;
+    border-width:20px;
+    border-radius:3px;
+    padding:20px;
+   
+  }
+  
+  #box9{ 
+    border-style: solid;
+    border-width:20px;
+    border-radius:3px;
+    padding:20px;
+  } 
+  .box11 { 
+    display:flex;
+    justify-content:flex-end;
+    
+  }
+  #box10 { 
+    border-style: solid;
+    border-width:20px;
+    border-radius:3px;
+    padding:20px;
+    font-size:1.5rem;
+    
+  }
+  
+  #box11{ 
+    border-style: solid;
+    border-width:20px;
+    border-radius:3px;
+     padding:20px;
+   
+  }
+  
+  #box12{ 
+    border-style: solid;
+    border-width:20px;
+    border-radius:3px;
+     padding:20px;
+   
+  } 
+  .box111 { 
+    display:flex;
+    justify-content:flex-end;
+    
+  }
+  .wrap { 
+    display:flex;
+   flex-direction:column;
+   flex-wrap:wrap;
+   gap:1em;
+  }
+  #box15 { 
+    border-style: solid;
+    border-width:20px;
+    border-radius:3px;
+    padding:20px;
+    flex-grow: 1;
+  }
+  
+  #box16{ 
+    border-style: solid;
+    border-width:20px;
+    border-radius:3px;
+    padding:20px;
+   
+  }
+  
+  #box17 { 
+    border-style: solid;
+    border-width:20px;
+    border-radius:3px;
+    padding:20px;
+    flex-shrink:5rem;
+    
+  }
+  .box1111 { 
+    display:flex;
+    
+  }
+  #box155 { 
+    border-style: solid;
+    border-width:20px;
+    border-radius:3px;
+    padding:20px;
+    align-self: flex-end;
+  }
+  
+  #box166{ 
+    border-style: solid;
+    border-width:20px;
+    border-radius:3px;
+    padding:20px;
+   
+  }
+  
+  #box177 { 
+    border-style: solid;
+    border-width:20px;
+    border-radius:3px;
+    padding:20px;
+    
+  }
+  .box11111 { 
+    display:flex;
+    align-items:flex-start;
+    
+  }
